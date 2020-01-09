@@ -1,0 +1,36 @@
+<svg width="122" height="94" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+ <title>icon</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <path id="path-1" d="m144.45329,104c32.5848,0 59,-26.4152 59,-59c0,-32.5848 -26.4152,-59 -59,-59c-32.5848,0 -29.85008,27.67548 -29.85008,60.26028c0,32.5848 -2.73472,57.73972 29.85008,57.73972z"/>
+  <filter id="filter-2" filterUnits="objectBoundingBox" height="200%" width="200%" y="-50%" x="-50%"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Page-1">
+   <g stroke="null" id="icon">
+    <g stroke="null" transform="matrix(0,-0.8101460933685303,0.8474576473236084,0,-25.966102361679084,233.67176895371085) " id="body">
+     <use stroke="null" id="svg_1" x="68.406072" y="58.8" xlink:href="#path-1" fill-rule="evenodd" fill="#2ECE53"/>
+     <use stroke="null" id="svg_2" x="68.406072" y="58.8" xlink:href="#path-1" filter="url(#filter-2)" fill="black"/>
+     <use stroke="#0E1320" id="svg_3" x="68.406072" y="58.8" xlink:href="#path-1" stroke-width="4"/>
+    </g>
+    <circle stroke="null" r="5.671022" cy="43.768606" cx="45.050848" fill="#000000" id="left-eye"/>
+    <circle stroke="null" r="5.671022" cy="43.768606" cx="82.338985" fill="#000000" id="right-eye"/>
+    <g stroke="null" fill="#FFFFFF" id="light">
+     <circle stroke="null" id="svg_4" r="1.620292" cy="43.768606" cx="23.864407"/>
+     <path stroke="null" id="light-line" d="m31.500471,9.179742c-0.252476,-0.369617 -0.708561,-0.402325 -1.029522,-0.061555l-1.123499,1.192835c-0.316113,0.335622 -0.364061,0.917017 -0.112957,1.283599c0,0 1.937979,2.942043 4.169582,5.3808c2.231597,2.438764 2.289006,2.42169 3.367806,3.35028c2.999717,2.58204 10.177345,6.460575 10.177345,6.460575c0.397293,0.218285 0.970776,0.128322 1.291737,-0.212448l1.123499,-1.192835c0.316113,-0.335622 0.238544,-0.770265 -0.180438,-0.97809c0,0 -3.30889,-1.573529 -6.286134,-3.549698c-2.977231,-1.976169 -1.888563,-1.248941 -3.874728,-2.682669c-2.92645,-2.112488 -7.522691,-8.990795 -7.522691,-8.990795z"/>
+    </g>
+    <path stroke="null" fill="#000000" id="mouth" d="m62.42373,76.421552c8.190661,0 14.830509,-6.347511 14.830509,-14.177557c0,-7.830046 -6.195992,-3.518732 -14.386661,-3.518732c-8.190661,0 -15.274356,-4.311314 -15.274356,3.518732c0,7.830046 6.639848,14.177557 14.830509,14.177557z"/>
+   </g>
+  </g>
+  <path stroke="#000" id="svg_5" d="m116.0699,91.67057l0.90001,-4.66676l3.60007,-1.16669l-4.50008,5.83345l-22.49991,0l0,-35l27,0l0,29.16655" stroke-width="1.5" fill="#fff"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_6" y2="64.945313" x2="116" y1="64.945313" x1="97" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="72.945313" x2="116" y1="72.945313" x1="97" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="81.945313" x2="116" y1="81.945313" x1="97" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+ </g>
+</svg>

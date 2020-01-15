@@ -115,6 +115,18 @@
 >理论：⭐⭐⭐   
 >实践：⭐⭐⭐⭐  
 
+高性能的NoSQL数据库
+
+**重点知识**
+- [常用数据结构及应用场景(String, Hash, List, Set, ZSet)](https://www.cnblogs.com/yangyongjie/p/10821054.html)
+- [Redis持久化](https://blog.csdn.net/qq_36795474/article/details/82938721)
+- [Redis主从复制](https://www.cnblogs.com/daofaziran/p/10978628.html)
+- [Redis数据淘汰策略](https://www.cnblogs.com/c-x-a/p/10948740.html)
+
+**高级知识**
+- [高级数据结构及应用场景(BitMap, HyperLogLog, GEO, Pub/Sub)](https://www.cnblogs.com/yangyongjie/p/10821054.html)
+- Redis Module([Bloom Filter](https://juejin.im/post/5db69365518825645656c0de)
+- [Redis哈希槽](https://blog.csdn.net/tianyeshiye/article/details/79600014)
 
 ## Socket编程
 >建议学习时长：5天  
@@ -249,9 +261,23 @@ Git是目前主流的代码版本控制系统，用于代码管理及多人协�
 **重点知识**
 - [CAP定律](http://www.txlcn.org/zh-cn/docs/preface.html)
 - [BASE理论](http://www.txlcn.org/zh-cn/docs/preface.html)
+- [一致性HASH](https://www.jianshu.com/p/e968c081f563)
 
 #### RPC
+推荐网站：https://www.jianshu.com/p/4ce6961e81be
+
 #### 分布式配置中心
+**框架**
+- [携程Apollo](https://github.com/ctripcorp/apollo)
+- [阿里Nacos](https://nacos.io/zh-cn)
+- Spring Cloud Config Center
+
+推荐网站：[携程Apollo配置中心介绍](https://github.com/ctripcorp/apollo/wiki/Apollo%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E4%BB%8B%E7%BB%8D)
+
+**重点知识**
+- 配置中心的作用
+- Apollo配置中心的设计架构
+
 #### 分布式锁
 
 **重点知识**

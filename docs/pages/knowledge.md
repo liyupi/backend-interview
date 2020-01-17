@@ -73,7 +73,6 @@
 ### Maven
 ### Swagger
 ### Netty
-### Tomcat
 ### Jedis
 ### JConsole
 ### JetBrains IDEA
@@ -119,20 +118,33 @@
 
 **重点知识**
 - [常用数据结构及应用场景(String, Hash, List, Set, ZSet)](https://www.cnblogs.com/yangyongjie/p/10821054.html)
+- [Redis单线程设计及为什么快](https://blog.csdn.net/chenyao1994/article/details/79491337)
 - [Redis持久化](https://blog.csdn.net/qq_36795474/article/details/82938721)
 - [Redis主从复制](https://www.cnblogs.com/daofaziran/p/10978628.html)
 - [Redis数据淘汰策略](https://www.cnblogs.com/c-x-a/p/10948740.html)
 
 **高级知识**
+- [Redis分区及哈希槽](https://blog.csdn.net/tianyeshiye/article/details/79600014)
+- [缓存问题](https://blog.csdn.net/xlgen157387/article/details/79530877)
 - [高级数据结构及应用场景(BitMap, HyperLogLog, GEO, Pub/Sub)](https://www.cnblogs.com/yangyongjie/p/10821054.html)
 - Redis Module([Bloom Filter](https://juejin.im/post/5db69365518825645656c0de)
-- [Redis哈希槽](https://blog.csdn.net/tianyeshiye/article/details/79600014)
+- [Redis压力测试](https://redis.io/topics/benchmarks)
+
+## Nginx
+
+**重点知识**
+- 正向代理与反向代理
+- 动静分离
+- [负载均衡策略](https://www.cnblogs.com/1214804270hacker/p/9325150.html)
 
 ## Socket编程
 >建议学习时长：5天  
 >权重：⭐⭐  
 >理论：⭐⭐  
 >实践：⭐⭐⭐⭐  
+
+**重点知识**
+- epoll和IO多路复用
 
 ## 消息队列
 >建议学习时长：3天    
